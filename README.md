@@ -1,3 +1,3 @@
-# Example Site
+# Objective
 
-This is a sample readme file for our GitHub Example repor. 
+This resporitory will share all my past projects I finished When I was doing my Master degree
